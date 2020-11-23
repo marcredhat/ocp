@@ -1,5 +1,7 @@
 # Automated deployment of OpenShift (tested with 4.5 and 4.6) and OpenShift Container Storage  on Bare Metal
 
+**Note:** for lab purposes only
+
 ## Table of Contents
 
 - [OpenShift and OpenShift Container Storage  on Bare Metal](#baremetal)
