@@ -380,7 +380,7 @@ oauth-openshift.apps.ocp4.local
 point to 127.0.0.1
 
 ```bash
-sudo ssh -i ./.ssh/id_rsa mchisinevski@vd1319.halxg.cloudera.com -L  443:console-openshift-console.apps.ocp4.local:443
+sudo ssh -i ./.ssh/id_rsa <user>@<baremetal server> -L  443:console-openshift-console.apps.ocp4.local:443
 ```
 
 Browse to https://console-openshift-console.apps.ocp4.local/
